@@ -1,2 +1,2 @@
 # BlogIsland-
-Frontend of a blog website
+Frontend of a blog website.
