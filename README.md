@@ -6,7 +6,9 @@ A modern and responsive blogging platform designed with a clean UI and smooth us
 
 ## 📸 Preview
 
-![BlogIsland Preview](./screenshots/preview.png)
+<img width="1918" height="798" alt="Screenshot 2026-05-29 202710" src="https://github.com/user-attachments/assets/da78e8ab-325f-4ada-8cb2-914137c07b8f" />
+<img width="1898" height="927" alt="Screenshot 2026-05-29 213416" src="https://github.com/user-attachments/assets/efe25e81-0a24-46eb-9cac-0683748d79b2" />
+
 
 ---
 
